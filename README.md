@@ -1,4 +1,4 @@
-# GiVeat
+# GiVEat
 
 # 🍽️ GIVEAT – The Smart Bridge
 
