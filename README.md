@@ -31,7 +31,7 @@ A two-sided digital platform that connects **food donors** (restaurants, hotels,
 - **Data Science:** ML
 - **Mobile App:** Flutter  
 - **Backend:** Java + Spring  
-- **UI/UX:** Figma
+- **UI/UX:** Figma [https://www.figma.com/design/3Gg5cQDV9Woyw7h3cqcLUG/CIS-Competition--Team-side-?node-id=0-1&t=UP4XPTD3InNdgEZS-1]
   
 ---
 
@@ -78,3 +78,5 @@ A two-sided digital platform that connects **food donors** (restaurants, hotels,
 ## 📽️ Resources
 For more details: *“We encourage you to watch this video and check out more in the description.”*
 [ https://drive.google.com/file/d/19v6iR24wBvO5IuHPOnaRxqYAcI4GhYqD/view?usp=sharing]
+## UI
+  [https://www.figma.com/design/3Gg5cQDV9Woyw7h3cqcLUG/CIS-Competition--Team-side-?node-id=0-1&t=UP4XPTD3InNdgEZS-1]
