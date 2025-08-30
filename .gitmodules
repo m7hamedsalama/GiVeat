@@ -1,0 +1,9 @@
+[submodule "repo2"]
+	path = repo2
+	url = https://github.com/MohamedAbdelaziz177/GivEat.git
+[submodule "Hackthon_CIS"]
+	path = Hackthon_CIS
+	url = https://github.com/ahmedothman-22/Hackthon_CIS
+[submodule "repo1"]
+	path = repo1
+	url = https://github.com/Nourhan-mo7amed/GivEat.git
